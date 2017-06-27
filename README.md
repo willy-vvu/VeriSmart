@@ -4,6 +4,6 @@ A speculative project to make blockchain smart contracts more accessible to comm
 
 Made by Nolan Reis, Sisi Messick, Ethan Ouimet, and William Wu as part of the IDEO CoLab.
 
-![](Screenshot 2017-06-22 at 17.48.00.png)
-![](Screenshot 2017-06-22 at 17.48.19.png)
-![](Screenshot 2017-06-22 at 17.49.07.png)
+![](Screenshot%202017-06-22%20at%2017.48.00.png)
+![](Screenshot%202017-06-22%20at%2017.48.19.png)
+![](Screenshot%202017-06-22%20at%2017.49.07.png)
